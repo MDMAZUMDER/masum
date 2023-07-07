@@ -1,0 +1,12 @@
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+  font-size: 32px;
+}
+nav ul li a {
+  text-decoration: none;
+}
+footer p {
+  margin-top: 33px;
+  text-align: center;
+}
